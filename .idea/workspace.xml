@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31b576db-7f26-4da2-be43-c56f8bd3d60f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste colocar no app java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste colocar no app java2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teste colocar no app java3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cliente.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objeto.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/ChamaNovamenteOObjetoCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TestaScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteEscrita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteLeitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Luiz/java/io/teste/TesteSerializacaoCliente.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7xFI8ZFsK6rpteJ8TZEGt36IV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Luiz_/IdeaProjects/LuizBank"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Luiz_\IdeaProjects\Java-io" />
+      <recent name="C:\Users\Luiz_\IdeaProjects\Java-io\src\br\com\Luiz\java\io\teste" />
+      <recent name="C:\Users\Luiz_\IdeaProjects\Java-io\src" />
+      <recent name="C:\Users\Luiz_\IdeaProjects\Java-io\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.Luiz.java.io.teste" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChamaNovamenteOObjetoCliente">
+    <configuration name="ChamaNovamenteOObjetoCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Luiz.java.io.teste.ChamaNovamenteOObjetoCliente" />
+      <module name="Java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.Luiz.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Luiz.java.io.teste.TestaScanner" />
+      <module name="Java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.Luiz.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaPrintStreamPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Luiz.java.io.teste.TesteEscritaPrintStreamPrintWriter" />
+      <module name="Java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.Luiz.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Luiz.java.io.teste.TesteSerializacao" />
+      <module name="Java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.Luiz.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSerializacaoCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Luiz.java.io.teste.TesteSerializacaoCliente" />
+      <module name="Java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.Luiz.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChamaNovamenteOObjetoCliente" />
+        <item itemvalue="Application.TesteSerializacaoCliente" />
+        <item itemvalue="Application.TesteSerializacao" />
+        <item itemvalue="Application.TestaScanner" />
+        <item itemvalue="Application.TesteEscritaPrintStreamPrintWriter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b576db-7f26-4da2-be43-c56f8bd3d60f" name="Changes" comment="" />
+      <created>1665753318978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665753318978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
